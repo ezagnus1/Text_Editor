@@ -1,0 +1,17 @@
+D:\Microsoft V. Studio\Projects\Win32_Applications\FinalProject2\obj\Debug\MainWindow.g.cs
+D:\Microsoft V. Studio\Projects\Win32_Applications\FinalProject2\obj\Debug\App.g.cs
+D:\Microsoft V. Studio\Projects\Win32_Applications\FinalProject2\obj\Debug\FinalProject2_MarkupCompile.cache
+D:\Microsoft V. Studio\Projects\Win32_Applications\FinalProject2\obj\Debug\FinalProject2_MarkupCompile.lref
+D:\Microsoft V. Studio\Projects\Win32_Applications\FinalProject2\obj\Debug\FinalProject2.csprojAssemblyReference.cache
+D:\Microsoft V. Studio\Projects\Win32_Applications\FinalProject2\obj\Debug\Help.g.cs
+D:\Microsoft V. Studio\Projects\Win32_Applications\FinalProject2\bin\Debug\FinalProject2.exe.config
+D:\Microsoft V. Studio\Projects\Win32_Applications\FinalProject2\bin\Debug\FinalProject2.exe
+D:\Microsoft V. Studio\Projects\Win32_Applications\FinalProject2\bin\Debug\FinalProject2.pdb
+D:\Microsoft V. Studio\Projects\Win32_Applications\FinalProject2\obj\Debug\Help.baml
+D:\Microsoft V. Studio\Projects\Win32_Applications\FinalProject2\obj\Debug\MainWindow.baml
+D:\Microsoft V. Studio\Projects\Win32_Applications\FinalProject2\obj\Debug\FinalProject2.g.resources
+D:\Microsoft V. Studio\Projects\Win32_Applications\FinalProject2\obj\Debug\FinalProject2.Properties.Resources.resources
+D:\Microsoft V. Studio\Projects\Win32_Applications\FinalProject2\obj\Debug\FinalProject2.csproj.GenerateResource.cache
+D:\Microsoft V. Studio\Projects\Win32_Applications\FinalProject2\obj\Debug\FinalProject2.csproj.CoreCompileInputs.cache
+D:\Microsoft V. Studio\Projects\Win32_Applications\FinalProject2\obj\Debug\FinalProject2.exe
+D:\Microsoft V. Studio\Projects\Win32_Applications\FinalProject2\obj\Debug\FinalProject2.pdb
